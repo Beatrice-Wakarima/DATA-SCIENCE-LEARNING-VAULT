@@ -1,0 +1,13 @@
+
+
+services:
+  etl-pipeline:
+    build: .
+    container_name: playstore_etl
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - LOG_LEVEL=INFO
+      - PYTHONUNBUFFERED=1
+    restart: on-failure
