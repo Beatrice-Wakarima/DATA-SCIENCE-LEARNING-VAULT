@@ -15,10 +15,10 @@ cssclasses: [no-title]
 </div>
 
 <div class="social-links">
-  <a href="https://github.com/Beatrice-Wakarima" class="social-btn github">⌥ GitHub</a>
-  <a href="https://www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin">💼 LinkedIn</a>
-  <a href="mailto:beatiewakarima1@gmail.com" class="social-btn email">✉️ Email Me</a>
-  <a href="https://beatrice-wakarima.github.io/data-science-portfolio/" class="social-btn portfolio">🌐 Portfolio</a>
+  <a href="https://github.com/Beatrice-Wakarima" class="social-btn github" target="_blank">⌥ GitHub</a>
+  <a href="https://www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin" target="_blank">💼 LinkedIn</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=beatiewakarima1@gmail.com" class="social-btn email" target="_blank">✉️ Email Me</a>
+  <a href="https://beatrice-wakarima.github.io/data-science-portfolio/" class="social-btn portfolio" target="_blank">🌐 Portfolio</a>
 </div>
 
 Welcome to my digital garden. I am a data professional specializing in building end-to-end, production-grade data solutions that turn raw information into executive-level insights.
