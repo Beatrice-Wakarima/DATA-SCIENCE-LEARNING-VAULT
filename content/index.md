@@ -36,36 +36,53 @@ Beyond the enterprise, I lead **Beatrice Builds** — an initiative focused on m
 ## 🗺️ Explore My Notes
 
 ### 📊 Data & Analytics
-- [[Data Engineering MOC]]
-- [[SQL MOC]]
-- [[Business Intelligence MOC]]
-- [[Snowflake MOC]]
-- [[DBT MOC]]
-- [[Databricks MOC]]
+
+<div class="card-grid">
+  <div class="card"><a href="Data-Engineering-MOC">⚙️ Data Engineering</a><p>ETL, pipelines, Airflow</p></div>
+  <div class="card"><a href="SQL-MOC">🗄️ SQL</a><p>Queries, CTEs, Windows</p></div>
+  <div class="card"><a href="Business-Intelligence-MOC">📉 Business Intelligence</a><p>BI strategy & reporting</p></div>
+  <div class="card"><a href="Snowflake-MOC">❄️ Snowflake</a><p>Cloud data warehouse</p></div>
+  <div class="card"><a href="DBT-MOC">🔧 DBT</a><p>Data transformation</p></div>
+  <div class="card"><a href="Databricks-MOC">🧱 Databricks</a><p>Spark & Delta Lake</p></div>
+</div>
 
 ### 🤖 AI & Machine Learning
-- [[Machine Learning MOC]]
-- [[Artificial Intelligence MOC]]
+
+<div class="card-grid">
+  <div class="card"><a href="Machine-Learning-MOC">🧠 Machine Learning</a><p>Supervised, unsupervised</p></div>
+  <div class="card"><a href="Artificial-Intelligence-MOC">🤖 Artificial Intelligence</a><p>AI concepts & tools</p></div>
+</div>
 
 ### 📈 Reporting & Visualization
-- [[Power BI MOC]]
-- [[Excel MOC]]
-- [[Spreadsheets MOC]]
+
+<div class="card-grid">
+  <div class="card"><a href="Power-BI-MOC">📈 Power BI</a><p>DAX, dashboards, reports</p></div>
+  <div class="card"><a href="Excel-MOC">📊 Excel</a><p>Formulas, pivot tables</p></div>
+  <div class="card"><a href="Spreadsheets-MOC">🗂️ Spreadsheets</a><p>Data analysis tools</p></div>
+</div>
 
 ### 💻 Programming
-- [[Python MOC]]
-- [[R MOC]]
+
+<div class="card-grid">
+  <div class="card"><a href="Python-MOC">🐍 Python</a><p>Automation & data science</p></div>
+  <div class="card"><a href="R-MOC">📐 R</a><p>Statistics & ggplot2</p></div>
+</div>
 
 ### 🛠️ Engineering & DevOps
-- [[Docker MOC]]
-- [[Kubernetes MOC]]
-- [[Kafka MOC]]
-- [[Postgres MOC]]
-- [[Git MOC]]
+
+<div class="card-grid">
+  <div class="card"><a href="Docker-MOC">🐳 Docker</a><p>Containerization</p></div>
+  <div class="card"><a href="Kubernetes-MOC">☸️ Kubernetes</a><p>Container orchestration</p></div>
+  <div class="card"><a href="Kafka-MOC">📨 Kafka</a><p>Real-time streaming</p></div>
+  <div class="card"><a href="Postgres-MOC">🐘 Postgres</a><p>Relational databases</p></div>
+  <div class="card"><a href="Git-MOC">🌿 Git</a><p>Version control</p></div>
+</div>
 
 ### 🚀 Projects
-- [[Projects MOC]]
 
+<div class="card-grid">
+  <div class="card"><a href="Projects-MOC">🚀 Projects</a><p>My data science projects</p></div>
+</div>
 ---
 
 > *Connect with me to discuss data architecture, pipeline automation, or collaborative technical education.*
