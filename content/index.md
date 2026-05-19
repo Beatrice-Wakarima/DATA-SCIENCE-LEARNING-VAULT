@@ -16,7 +16,7 @@ cssclasses: [no-title]
 
 <div class="social-links">
   <a href="https://github.com/Beatrice-Wakarima" class="social-btn github">⌥ GitHub</a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin">💼 LinkedIn</a>
   <a href="mailto:beatiewakarima1@gmail.com" class="social-btn email">✉️ Email Me</a>
   <a href="https://beatrice-wakarima.github.io/data-science-portfolio/" class="social-btn portfolio">🌐 Portfolio</a>
 </div>
