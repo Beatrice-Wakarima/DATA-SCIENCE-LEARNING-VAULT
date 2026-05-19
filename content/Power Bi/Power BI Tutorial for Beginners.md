@@ -204,3 +204,4 @@ Each visual also has a number of options:
 ### Dashboard
 
 You can pin entire reports or individual visuals to dashboards. The biggest benefit of using dashboards is that they allow you to pin visuals from different reports in your workspace. This way, you can easily keep track of important metrics in one place rather than clicking on each report to see them.
+up:: [[Power BI MOC]]

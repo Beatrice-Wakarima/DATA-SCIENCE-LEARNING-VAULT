@@ -104,3 +104,4 @@ It can be helpful to annotate more complex visualizations and provide context fo
 4. Label important data points when necessary
 5. Adjust font size when highlighting specific messages within your labels
 6. Plot tables and visualizations side by side
+up:: [[Power BI MOC]]

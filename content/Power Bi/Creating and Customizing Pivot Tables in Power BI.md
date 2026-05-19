@@ -135,3 +135,4 @@ Also, build your data model around the star schema framework rather than the sno
 Check out our [Data Modeling in Power BI](https://app.datacamp.com/learn/tutorials/data-modeling-in-power-bi-tutorial) tutorial for best practices when designing your data model.
 
 Next, avoid adding too many row and column fields to your pivot tables since this can cause the matrix visual to take extremely long to load, especially for end users who are accessing your report from the Power BI Service.
+up:: [[Power BI MOC]]

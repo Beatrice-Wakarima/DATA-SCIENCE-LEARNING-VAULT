@@ -273,3 +273,4 @@ Maintain a simple hierarchy where possible. Start with a collapsed view and allo
 ### 5. Ignoring mobile users
 
 If you have mobile users, design your reports with mobile in mind. Test how your matrix looks and behaves on different devices. Use features like responsive layout design in Power BI to ensure that matrices are legible on mobile devices.
+up:: [[Power BI MOC]]

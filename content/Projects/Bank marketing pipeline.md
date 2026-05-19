@@ -2734,3 +2734,4 @@ This comprehensive portfolio project demonstrates professional data engineering 
 ---
 
 _Tags: #DataEngineering #ETL #PostgreSQL #Python #Streamlit #Portfolio #BankMarketing #Pipeline #DataQuality #Monitoring #ConfigurationManagement #BestPractices_
+up:: [[Projects MOC]]

@@ -83,3 +83,4 @@ In summary, Power BI dashboards are focused on providing a consolidated view of 
 On the other hand, Power BI reports offer comprehensive, interactive analysis capabilities, allowing users to explore data in-depth, perform complex calculations, and customize visualizations.
 
 Understanding the differences between dashboards and reports is crucial for leveraging the full potential of Power BI in analyzing and communicating data effectively within your organization.
+up:: [[Power BI MOC]]

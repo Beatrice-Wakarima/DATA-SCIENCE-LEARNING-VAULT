@@ -285,3 +285,4 @@ You can see — the `GROUPBY()`  function easily calculates the Total Revenue b
 ## Final Thoughts on DAX SUMMARIZE()
 
 You now know how the `SUMMARIZE()` function in DAX can help you group and analyze data in Power BI, Excel, and other tools. From basic grouping to advanced techniques like `ROLLUP()` and `ADDCOLUMNS()`, `SUMMARIZE()` helps create insightful summaries.
+up:: [[Power BI MOC]]

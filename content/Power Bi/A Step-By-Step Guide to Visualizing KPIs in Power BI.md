@@ -149,3 +149,4 @@ Align KPIs with business objectives: Ensure each KPI is directly linked to a str
 Balance leading and lagging indicators: Include both leading indicators (which predict future performance) and lagging indicators (which reflect past performance) to get a comprehensive view of your business.
 
 Regularly review and update KPIs: It's important to review KPIs regularly to ensure they remain relevant. Update your KPIs to reflect changes in strategy, market conditions, or operational focus.
+up:: [[Power BI MOC]]

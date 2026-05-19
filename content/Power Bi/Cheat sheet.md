@@ -182,3 +182,4 @@ Data Analysis Expressions (DAX) is a calculation language used in Power BI that 
 - `CALENDAR(<start date>, <end date>)` generates a column of continuous sets of dates
 - `DATE(<year>, <month>, <day>)` returns the specified date in the datetime format
 - `WEEKDAY(<date>, <return_type>)` returns 1-7 corresponding to the day of the week of a date (`return_type` indicates week start and end (1: Sunday-Saturday, 2: Monday Sunday)
+up:: [[Power BI MOC]]

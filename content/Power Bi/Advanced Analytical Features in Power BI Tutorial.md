@@ -125,3 +125,4 @@ Selecting this option gives a detailed analysis of many of the features in the d
 ![Adding Charts to Your Report in Power BI](https://images.datacamp.com/image/upload/v1653277683/image1_c67319c508.png)
 
 These contextual insights are very valuable when you want to generate fast insights. I have often used this feature to find points for further investigation and analysis into a sudden change in the data. This expedites my data exploration process because I do not need to start from scratch.
+up:: [[Power BI MOC]]

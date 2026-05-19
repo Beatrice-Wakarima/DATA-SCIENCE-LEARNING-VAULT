@@ -115,3 +115,4 @@ Reducing the number of queries improves report performance, especially when deal
 ### 4. Limit slicer values
 
 To improve report performance, limit the number of values in your slicers. This can reduce the load time of your report and make it more responsive.
+up:: [[Power BI MOC]]

@@ -652,3 +652,4 @@ wget -i urls.txt
 ---
 
 **Tags:** #Linux #DataProcessing #curl #wget #CLI #DataEngineering #Automation #NetworkTools
+up:: [[Data Engineering MOC]]

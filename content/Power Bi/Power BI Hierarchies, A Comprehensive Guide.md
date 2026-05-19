@@ -186,3 +186,4 @@ Also, it’s easy to forget to give your hierarchies meaningful names. Calling i
 ## Conclusion
 
 Hierarchies in Power BI enhance data analysis by allowing users to easily navigate between different levels of detail in their data, improving the overall reporting and visualization experience.
+up:: [[Power BI MOC]]

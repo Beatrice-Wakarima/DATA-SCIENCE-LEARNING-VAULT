@@ -128,3 +128,4 @@ If you notice no problem with the fields, check your date columns and ensure the
 ## Conclusion
 
 In this article, you have learned how to create and customize a Gantt Chart in Power BI and the steps to take when having issues creating one. The **Format** **visual** tab under the visualization pane offers many more customization options, which you can explore to make sure you have a beautiful Gantt chart that effectively explains and tracks your entire project, whatever it is.
+up:: [[Power BI MOC]]

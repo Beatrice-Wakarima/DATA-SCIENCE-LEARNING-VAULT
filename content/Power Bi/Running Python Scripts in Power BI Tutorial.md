@@ -93,3 +93,4 @@ Selecting ‘OK’ will import a collapsed table. You now need to expand the Val
 In the end, we are left with a dataset that contains all the original columns plus an additional column that shows the cluster to which each row of the data is assigned. In this example, we chose to split the data into 4 clusters, and so there should be cluster labels from 0 to 3.
 
 ![Splitting the Data into 4 Clusters Power BI](https://images.datacamp.com/image/upload/v1654247676/image3_2bbd64f6e4.png)
+up:: [[Power BI MOC]]

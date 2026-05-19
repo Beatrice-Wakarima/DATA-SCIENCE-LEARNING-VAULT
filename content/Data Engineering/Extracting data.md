@@ -15,3 +15,4 @@ In this code-along, we'll focus on extracting data from flat-files. A flat file 
 1. After importing `pandas`, read the `apps_data.csv` DataFrame into memory. Print the head of the DataFrame.
 2. Similar to before, read in the DataFrame stored in the `review_data.csv` file. Take a look at the first few rows of this DataFrame.
 3. Print the column names, shape, and data types of the `apps` DataFrame.
+up:: [[Data Engineering MOC]]

@@ -222,3 +222,4 @@ Learn more about Power BI Desktop in this [Power BI tutorial for beginners](http
 ## Conclusion
 
 Power BI Report Builder is a powerful tool for creating professional, paginated reports. It also offers tight integration with SQL-based data sources and Power BI Service, making it ideal for generating printable documents and regulatory reports.
+up:: [[Power BI MOC]]

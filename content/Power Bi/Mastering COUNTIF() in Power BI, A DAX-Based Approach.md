@@ -251,3 +251,4 @@ Also, avoid using too many iterators, such as `FILTER()`, in a single DAX syntax
 Even though the native `COUNTIF()` in Excel is absent in Power BI, DAX functions like `CALCULATE()`, `COUNTROWS()`, `COUNTA()`, and `FILTER()` makes it possible to replicate this functionality.
 
 The approach you select depends on the nature of your data. If you have missing values, consider using `COUNTA()`, but if your data is complete, you can use `COUNTROWS()`. To exclude external filters applied to the data, ensure you use `ALLEXCEPT()`, inside a `CALCULATE()` function.
+up:: [[Power BI MOC]]

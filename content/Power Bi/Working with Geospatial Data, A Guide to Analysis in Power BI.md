@@ -119,3 +119,4 @@ This produces the following result:
 In addition to the information in our dataset, we add an additional infographic card to the chart. This is a feature offered by ArcGIS, and it dynamically changes based on the items we can see - in this case, we have zoomed into Los Angeles. Since we are dealing with property data, we added the average home value. This adds some context to the relative prices of Airbnb listings we see in this visual.
 
 Based on the size of the circles, we can see that Malibu has some of the most expensive Airbnb listings!
+up:: [[Power BI MOC]]

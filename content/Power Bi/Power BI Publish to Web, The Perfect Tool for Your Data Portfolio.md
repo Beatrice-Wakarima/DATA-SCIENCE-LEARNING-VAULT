@@ -194,3 +194,4 @@ Of course, as useful as this tool is, it’s impractical to remember that there 
 - No advanced features: Some advanced features, like bookmarks or drill-through, may not work as expected when you publish to the web.
 - Limited support for custom visuals: Some custom visuals might not display properly or at all in the web-published report.
 - Data caching: To reduce performance issues, Power BI caches a report's data for one hour. This starts when a user retrieves the report or runs a query. When you refresh the underlying data, it can take some time before your users see the updates.
+up:: [[Power BI MOC]]

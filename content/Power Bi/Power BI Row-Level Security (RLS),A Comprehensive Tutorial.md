@@ -389,3 +389,4 @@ I’ve put together a comparison summary in the table below:
 ## Conclusion
 
 Wrapping up, row-level security (RLS) in Power BI is a key method for ensuring data governance within the platform. It allows organizations to deliver personalized, secure analytics experiences within a single report or dashboard, without compromising the confidentiality or integrity of underlying data.
+up:: [[Power BI MOC]]

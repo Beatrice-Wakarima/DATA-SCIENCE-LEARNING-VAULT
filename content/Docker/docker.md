@@ -396,3 +396,4 @@ Once you've mastered the basics of Docker, there are plenty of advanced topics t
 - CI/CD pipelines with Docker: Automate image builds, security scans, and deployments using GitHub Actions, GitLab CI, or Jenkins.
 - Cloud-native development: Leverage Docker with cloud platforms like AWS ECS, Azure Container Instances, and Google Cloud Run for scalable and managed deployments.
 - Data persistence strategies: For optimal storage management, understand the differences between Docker volumes, bind mounts, and tmpfs.
+up:: [[Docker MOC]]

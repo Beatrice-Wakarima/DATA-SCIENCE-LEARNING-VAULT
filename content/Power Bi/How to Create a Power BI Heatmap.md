@@ -149,3 +149,4 @@ If you are interested in getting more Data Science skills, the following courses
 
 - [Data modeling in Power BI](https://www.datacamp.com/courses/data-modeling-in-power-bi), from this course, you will be able to understand the foundations of data modeling by going into star and snowflake schemas.
 - [Data Analyst in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi), through hands-on exercises, you will learn data analysts’ best practices and discover advanced Power BI features, including DAX, Power Query, etc.
+up:: [[Power BI MOC]]

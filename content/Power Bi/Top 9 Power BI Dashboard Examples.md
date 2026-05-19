@@ -1,0 +1,2 @@
+
+up:: [[Power BI MOC]]

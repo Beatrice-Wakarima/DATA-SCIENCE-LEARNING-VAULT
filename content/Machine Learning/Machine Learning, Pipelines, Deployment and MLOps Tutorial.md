@@ -315,3 +315,4 @@ MLOps help ensure that deployed models are well maintained, performing as expect
 MLOps topped **LinkedIn's Emerging Jobs ranking**, with a recorded **growth of 9.8 times in five years.**
 
 You can check out the new [MLOps Fundamentals](https://www.datacamp.com/tracks/mlops-fundamentals) Skill Track at DataCamp, which covers the complete life-cycle of a machine learning application, ranging from the gathering of business requirements to the design, development, deployment, operation, and maintenance stages. Datacamp also has an amazing [Understanding Data Engineering course](https://www.datacamp.com/courses/understanding-data-engineering). Enroll today to discover how data engineers lay the groundwork that makes data science possible, with no coding involved.
+up:: [[Machine Learning MOC]]

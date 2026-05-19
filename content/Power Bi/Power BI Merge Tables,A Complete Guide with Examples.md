@@ -263,3 +263,4 @@ Managing and merging tables in Power BI can be challenging, especially since the
 However, merging tables is too useful a feature for it to be overlooked. 
 
 With this tutorial, you can now confidently use Power BI’s merge tables to clean your data and build reports that can incorporate data from various sources.
+up:: [[Power BI MOC]]

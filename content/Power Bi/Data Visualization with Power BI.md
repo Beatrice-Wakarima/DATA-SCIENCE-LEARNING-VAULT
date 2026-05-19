@@ -361,3 +361,4 @@ Data is only useful when it can be shared among people or organization. The gene
 ## 10. Conclusion
 
 That’s all we need to know to create a good visualization in Power BI although, one might find doing a lot more revising in each stage than we did here. So with experimentation and practice, Power BI becomes a lot more familiar and will unleash amazing features to help us analyze and present data.
+up:: [[Power BI MOC]]

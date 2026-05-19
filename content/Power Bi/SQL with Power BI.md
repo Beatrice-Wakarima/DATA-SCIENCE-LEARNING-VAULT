@@ -226,3 +226,4 @@ Data is only useful when it can be shared among people or organization. The gene
 ## 9. Conclusion
 
 Using SQL and Power BI together takes the data analysis to the next level. We can easily connect the SQL Server to Power BI and extract the data directly into it. Power BI enables the users to toggle connections with a click to apply in-memory queries to a larger dataset. SQL is a pretty useful tool and when leveraged with the expertise of Power BI can help to make the analysis more powerful and insightful.
+up:: [[Power BI MOC]]

@@ -145,3 +145,4 @@ Let’s go over why these filters are important here:
 In this tutorial, we discussed what the `CALCULATE()` function is in Power BI and how to use it. We also applied the `CALCULATE()` function to a real-world e-commerce dataset and used it to answer some key business questions.
 
 `CALCULATE()` is one of the most useful functions in Power BI and you will likely need to use it frequently when building reports and generating deeper insights into your data.
+up:: [[Power BI MOC]]

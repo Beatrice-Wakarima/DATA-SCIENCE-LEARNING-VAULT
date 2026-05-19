@@ -381,3 +381,4 @@ We can also disable a subscription from running. This is particularly useful whe
 An immediate test run can be done using the ‘Run now’ button, but only after saving that subscription group.
 
 Once saved, the subscription group should appear under the subscribe window.
+up:: [[Power BI MOC]]

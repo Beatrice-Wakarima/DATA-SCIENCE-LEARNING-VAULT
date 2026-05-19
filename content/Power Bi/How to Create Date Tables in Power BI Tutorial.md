@@ -180,3 +180,4 @@ Below are a few illustrations of how filters are propagated from date tables to 
 ## Conclusion
 
 You have more than one option when creating a data table with Power BI, as demonstrated in this article. However, considerations such as usability, simplicity, reusability, and your requirements may influence your choice.
+up:: [[Power BI MOC]]

@@ -1176,3 +1176,4 @@ print("4. Business KPIs (actual churn rate, revenue impact)")
 ---
 
 _Last updated: [09/11/2015]_ _Tags: #MachineLearning #ScikitLearn #Python #DataScience_
+up:: [[Machine Learning MOC]]

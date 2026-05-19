@@ -112,3 +112,4 @@ There are different ways you can deliver a data story. The importance of each is
 |Long-form report|- Be extra diligent about providing useful context around data visualizations and insights<br>- Leave any highly technical details to the appendix|
 |Notebook|- Ensure that you provide useful context on how you arrived at a certain conclusion|
 |Dashboard|- Make use of the dashboard grid layout<br>- Organize data insights from left to right, top to bottom<br>- Provide useful summary text of key visualizations in your dashboard|
+up:: [[Power BI MOC]]

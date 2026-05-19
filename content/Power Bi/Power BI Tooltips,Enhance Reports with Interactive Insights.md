@@ -145,3 +145,4 @@ Here are some tips and pitfalls to avoid when creating custom Power BI tooltips.
 - Content overload: Avoid including too much detail, repeating information, and including irrelevant information.
 - Accessibility issues: Avoid combining too many visuals and use simple and non-distracting visuals. Also, avoid using color contrasts, font sizes, and styles that are difficult to read.
 - User alignment issues: Avoid designing tooltips without considering users' specific questions about the data, and avoid using complex terms.
+up:: [[Power BI MOC]]

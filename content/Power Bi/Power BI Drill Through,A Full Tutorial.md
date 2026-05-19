@@ -325,3 +325,4 @@ Hospital emergency room decision dashboard. Source: [Microsoft Fabric](https://a
 
 - Scenario: A finance team dashboard summarizes spend by department. Executives drill into detailed expense lines by subcategory and project.
 - Benefit: Better cost control, improved transparency, and targeted budgeting.
+up:: [[Power BI MOC]]

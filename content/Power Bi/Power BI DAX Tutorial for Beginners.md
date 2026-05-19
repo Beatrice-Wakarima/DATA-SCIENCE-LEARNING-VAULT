@@ -128,3 +128,4 @@ To improve the performance of DAX formulas, especially in large datasets, follow
 |Leverage variables|Use VAR to store intermediate results and avoid redundant calculations within a formula.|
 |Simplify relationships|Ensure the data model has clear relationships and appropriately indexed tables for faster processing.|
 |Optimize cardinality|Reduce the number of unique values in columns used for filtering or joining to enhance performance.|
+up:: [[Power BI MOC]]

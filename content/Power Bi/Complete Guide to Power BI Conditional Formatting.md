@@ -236,3 +236,4 @@ Find a balance between highlighting key points and overloading your report with 
 Be selective with what you choose to highlight. Too much conditional formatting can make a report busy and hard to read. Focus on key metrics and insights that drive decision-making and tie in with the objective of the report or dashboard.
 
 Use icons and data bars to add context or to simplify the understanding of the data without adding additional columns, charts, or other text. Arrows can indicate trends, while data bars can give a quick comparative view of a column in a table.
+up:: [[Power BI MOC]]

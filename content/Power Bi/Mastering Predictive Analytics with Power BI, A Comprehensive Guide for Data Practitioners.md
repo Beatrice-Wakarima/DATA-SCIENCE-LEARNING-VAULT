@@ -146,3 +146,4 @@ Additionally, you can use parameters in Power BI to control when the model shoul
 **Challenge**: Some complex models (like neural networks) can be difficult to interpret, leading to challenges in understanding and explaining the results.
 
 **Solution**: Where possible, use simpler models that are easier to interpret and explain to stakeholders (like decision trees).
+up:: [[Power BI MOC]]

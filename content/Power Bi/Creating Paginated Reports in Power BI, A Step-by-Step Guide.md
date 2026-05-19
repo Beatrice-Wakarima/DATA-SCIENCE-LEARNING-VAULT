@@ -463,3 +463,4 @@ A report is meant to convey information effortlessly for the report users to und
 When building the report, avoid cluttering the body and ensure you appropriately align elements using their bounding boxes. When dealing with complex elements, try to expand the body and ensure your paper size accommodates the expansion. 
 
 I recommend taking our [Power BI Fundamentals](https://www.datacamp.com/tracks/power-bi-fundamentals) skill track so that you can practice and make sure these kinds of design ideas become intuitive.
+up:: [[Power BI MOC]]

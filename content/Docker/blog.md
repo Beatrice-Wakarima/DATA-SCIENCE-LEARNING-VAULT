@@ -415,3 +415,4 @@ Docker has revolutionized application deployment and data management by packagin
 This guide has provided the foundational steps to mastering Docker, from core concepts to hands-on deployments. To further deepen your knowledge, consider exploring additional resources like the [Introduction to Docker](https://www.datacamp.com/courses/introduction-to-docker) and [Intermediate Docker](https://www.datacamp.com/courses/intermediate-docker) courses on DataCamp. As you advance, expanding your skills with orchestration tools like Kubernetes is equally important—check out the [Introduction to Kubernetes](https://www.datacamp.com/courses/introduction-to-kubernetes) course to get started.
 
 Practicing regularly, using available resources, and staying engaged with the community will unlock Docker’s full potential for managing complex data environments.
+up:: [[Docker MOC]]

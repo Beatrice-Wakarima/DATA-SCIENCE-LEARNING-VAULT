@@ -50,3 +50,4 @@ Unsupervised learning is about discovering general patterns in data. The most po
 |---|---|---|---|---|
 |**Algorithm**|**Description**|**Applications**|**Advantages**|**Disadvantages**|
 |**Apriori Algorithm**|Rule based approach that identifies the most frequent itemset in a given dataset where prior knowledge of frequent itemset properties is used|1. Product placements<br>2. Recommendation engines<br>3. Promotion optimization|1. Results are intuitive and Interpretable<br>2. Exhaustive approach as it finds all rules based on the confidence and support|1. Generates many uninteresting itemsets<br>2. Computationally and memory intensive.  <br>    Results in many overlapping item sets|
+up:: [[Machine Learning MOC]]

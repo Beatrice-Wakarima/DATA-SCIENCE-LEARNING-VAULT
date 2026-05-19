@@ -65,3 +65,4 @@ These data visualizations allow you to visualize how data points flow into eacho
 3. **Network chart:** Similar to a graph, it consists of nodes and interconnected edges. It illustrates how different items have relationships with each other
 
 [![visualize a flow](https://images.datacamp.com/image/upload/v1675350582/dq7gkdaksn0waxjie4hb.png)](https://s3.amazonaws.com/assets.datacamp.com/email/other/Data+Visualizations+-+DataCamp.pdf)
+up:: [[Power BI MOC]]

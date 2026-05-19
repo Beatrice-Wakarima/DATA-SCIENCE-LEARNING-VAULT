@@ -117,3 +117,4 @@ Here are some best practices for using `SWITCH()` effectively:
 ## Conclusion
 
 If you're looking for a more efficient and versatile way to handle multiple conditions in Power BI, `SWITCH()` is the answer. Unlike nested IF statements, the `SWITCH()` function condenses multiple conditions into a single function, leading to cleaner and simpler DAX expressions that are easier to read and maintain. Plus, it improves the readability of your formulas, making it easier for you and others to understand and modify your calculations.
+up:: [[Power BI MOC]]

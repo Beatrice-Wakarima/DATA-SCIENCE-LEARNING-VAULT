@@ -261,3 +261,4 @@ Working with weekends and custom week boundaries in DAX isn’t just about date 
 You’ve seen how functions like `WEEKDAY()` and `NETWORKDAYS()` help define flexible date logic and how calculated columns and measures each play their part: one for structure and the other for dynamic analysis. Along the way, we’ve examined real-world use cases, from payroll cutoffs to retail calendars, and learned how to avoid common DAX pitfalls, such as misused quotes or lost row context.
 
 The next time you’re building a Power BI dashboard that deals with dates, think beyond the default calendar. Customize your week, make weekends explicit, and treat working days as the first-class metrics they deserve to be. With these DAX patterns in your toolkit, your reports won’t just show time, they’ll show time as your organization experiences it.
+up:: [[Power BI MOC]]

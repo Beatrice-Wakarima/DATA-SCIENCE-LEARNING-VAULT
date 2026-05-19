@@ -148,3 +148,4 @@ Consider using `LOOKUPVALUE` in measures instead, where calculations are perfo
 ### 4. Data types and case sensitivity
 
 Ensure that the search value and the column being searched have matching data types, and be aware of case sensitivity. Mismatches in data types or case can lead to unexpected results or errors in the `LOOKUPVALUE` function.
+up:: [[Power BI MOC]]

@@ -145,3 +145,4 @@ In the [e-commerce analysis](https://www.datacamp.com/courses/case-study-ecomme
 |Competitor Sales Analysis|Intermediate|Power BI, Power Query, AI Visualizations|Assess company product performance against competitors|
 |Mortgage Trading Analysis|Intermediate|Power BI, Advanced DAX, Multiple Visualizations|Analyze mortgage data and execute trade decisions|
 |E-commerce Analysis|Intermediate|Power BI, Power Query, Intermediate DAX|Explore sales and customer data to provide insightful visualizations|
+up:: [[Power BI MOC]]

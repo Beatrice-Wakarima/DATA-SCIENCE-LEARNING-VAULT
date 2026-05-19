@@ -234,3 +234,4 @@ The waterfall chart is famous because it can show the pattern of a variable from
 In this article, you have learned how to use Power BI to build and customize your very own waterfall chart. You have also learned the best practices to follow and pitfalls to avoid. Browse through [DataLab datasets](https://www.datacamp.com/datalab/datasets) to keep practicing the steps covered in this article.
 
 You can also check the following courses to learn more on Power BI.
+up:: [[Power BI MOC]]

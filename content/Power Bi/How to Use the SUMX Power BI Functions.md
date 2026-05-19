@@ -141,3 +141,4 @@ Logical functions like IF and SWITCH can be used within SUMX to perform conditio
 USERELATIONSHIP specifies a particular relationship to be used in a calculation. It is especially useful when multiple relationships exist between tables.
 
 `SUMX(CALCULATETABLE(Sales, USERELATIONSHIP(Date[Date], Sales[Date])), Sales[Units Sold])`
+up:: [[Power BI MOC]]

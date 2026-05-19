@@ -452,3 +452,4 @@ def create_production_engine(db_type):
 **Related Notes:** [[dotenv]], [[pandas]], [[streamlit]], [[SQL Security]], [[SQLAlchemy]], [[Database Performance]]
 
 #mysql #postgresql #security #dotenv #python #pandas #streamlit #database #sqlalchemy #obsidian
+up:: [[Data Engineering MOC]]

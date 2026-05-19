@@ -218,3 +218,4 @@ A rule-based approach that identifies the most frequent itemset in a given datas
 DataCamp provides a comprehensive course in both the languages—[Python](https://www.datacamp.com/courses/market-basket-analysis-in-python) and [R](https://www.datacamp.com/courses/market-basket-analysis-in-r).
 
 ![image6.png](https://images.datacamp.com/image/upload/v1669819703/image6_f4333efc5a.png)
+up:: [[Machine Learning MOC]]

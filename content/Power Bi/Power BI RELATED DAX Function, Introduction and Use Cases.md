@@ -152,3 +152,4 @@ Merging tables in Power Query effectively creates a static snapshot of your data
 But suppose your Products table is frequently updated (new products added or categories changed). In that case, your merged table in Power Query won't automatically reflect these updates without a refresh of both the Products and Sales tables.
 
 Merged tables can become quite large and may slow down your report's performance, especially if you're only interested in a small piece of data from the related table (like a product category).
+up:: [[Power BI MOC]]

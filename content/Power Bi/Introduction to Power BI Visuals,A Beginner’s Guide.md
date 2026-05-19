@@ -262,3 +262,4 @@ Custom themes are also expanding. Organizations are building theme libraries to 
 ## Conclusion
 
 Power BI visuals are critical for effective data storytelling. Their built-in visuals make it easy for beginners to get started quickly, while offering more advanced users the ability to create custom visualizations for more unique cases.
+up:: [[Power BI MOC]]

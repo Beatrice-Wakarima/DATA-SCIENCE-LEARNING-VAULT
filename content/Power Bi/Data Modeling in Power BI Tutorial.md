@@ -113,3 +113,4 @@ However, there are a few other things you can do to optimize your Power BI model
 ## Final Thoughts
 
 Employing robust data modeling practices is crucial for building efficient and scalable Power BI reports. This tutorial emphasizes the importance of the star schema, which enhances both usability and performance. Understanding key concepts such as creating relationships, cardinality, and directionality ensures that your data model is both functional and optimized.
+up:: [[Power BI MOC]]

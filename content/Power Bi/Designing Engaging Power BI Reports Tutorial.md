@@ -160,3 +160,4 @@ In the image below, we have filtered the report to show only the Channel Partner
 Every chart has tooltips that display the exact value when you hover over an element in the chart. However, you can actually use a report page as a tooltip! In the image below, you can see that while hovering over the VTT product, a tooltip appears that is in fact a page from the report with some visuals relating to this product.
 
 ![Using Tooltips in Power BI Screenshot](https://media.datacamp.com/legacy/v1724173243/image_bdcff60b5c.png)
+up:: [[Power BI MOC]]
