@@ -1,42 +1,144 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// ============================================
+// BEATRICE BUILDS — Navy & Gold Theme
+// ============================================
+
+:root {
+  --light: #f5f3ee;
+  --lightgray: #e8e4d9;
+  --gray: #8a8a8a;
+  --darkgray: #1a1a2e;
+  --dark: #0d0d1a;
+  --secondary: #c9a84c;      /* Gold */
+  --tertiary: #e8c97a;       /* Light gold */
+  --highlight: rgba(201, 168, 76, 0.15);
+}
+
+// Hero Section
+.hero-section {
+  position: relative;
+  width: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.hero-banner {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  filter: brightness(0.5);
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  gap: 2rem;
+  background: linear-gradient(
+    to right,
+    rgba(13, 13, 26, 0.9) 0%,
+    rgba(13, 13, 26, 0.4) 100%
+  );
+}
+
+.hero-logo {
+  width: 120px;
+  height: 120px;
+  border-radius: 16px;
+  object-fit: cover;
+  border: 3px solid #c9a84c;
+  flex-shrink: 0;
+}
+
+.hero-text {
+  color: white;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #c9a84c;
+    margin: 0 0 0.5rem 0;
+  }
+
+  p {
+    font-size: 1rem;
+    color: #e8e4d9;
+    margin: 0;
+  }
+}
+
+// Navigation & Site Title
+.page-title {
+  color: #c9a84c !important;
+  font-weight: 800;
+}
+
+// Cards
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 1rem;
   margin: 1rem 0 2rem 0;
 }
 
 .card {
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: #1a1a2e;
+  border: 1px solid #c9a84c44;
   border-radius: 12px;
   padding: 1rem 1.2rem;
   transition: all 0.2s ease;
-  
+
   &:hover {
-    border-color: var(--secondary);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-color: #c9a84c;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 20px rgba(201, 168, 76, 0.2);
   }
 
   a {
     text-decoration: none;
     font-weight: 600;
-    color: var(--secondary);
+    color: #c9a84c;
   }
 
   p {
-    font-size: 0.85rem;
-    color: var(--gray);
+    font-size: 0.82rem;
+    color: #8a8a8a;
     margin: 0.3rem 0 0 0;
   }
 }
 
-.card-section-title {
-  font-size: 1.1rem;
-  font-weight: 700;
-  margin: 1.5rem 0 0.5rem 0;
-  color: var(--darkgray);
+// Links
+a {
+  color: #c9a84c;
+  &:hover { color: #e8c97a; }
+}
+
+// Headings
+h1, h2, h3 {
+  color: #1a1a2e;
+}
+
+// Graph view node color
+.graph-node {
+  fill: #c9a84c !important;
+}
+
+// Profile photo (if used)
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 1rem auto;
+  border: 3px solid #c9a84c;
 }

@@ -2,7 +2,16 @@
 title: Beatrice | Full-Stack Data Scientist
 ---
 
-# 👩‍💻 Full-Stack Data Scientist
+<div class="hero-section">
+  <img src="attachments/banner.png" class="hero-banner" alt="Beatrice Wakarima - Data Scientist"/>
+  <div class="hero-overlay">
+    <img src="attachments/logo.jpg" class="hero-logo" alt="Beatrice Builds Logo"/>
+    <div class="hero-text">
+      <h1>Beatrice Wakarima</h1>
+      <p>Full-Stack Data Scientist · Turning Data into Impact</p>
+    </div>
+  </div>
+</div>
 
 Welcome to my digital garden. I am a data professional specializing in building end-to-end, production-grade data solutions that turn raw information into executive-level insights.
 
