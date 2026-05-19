@@ -1,14 +1,14 @@
 ---
-title: Beatrice Wakarima
+title: Beatrice W Wanjiru
 cssclasses: [no-title]
 ---
 
 <div class="hero-section">
-  <img src="attachments/banner.png" class="hero-banner" alt="Beatrice Wakarima"/>
+  <img src="attachments/banner.png" class="hero-banner" alt="Beatrice W Wanjiru"/>
   <div class="hero-overlay">
     <img src="attachments/logo.jpg" class="hero-logo" alt="Beatrice Builds"/>
     <div class="hero-text">
-      <h1>Beatrice Wakarima</h1>
+      <h1>Beatrice W Wanjiru</h1>
       <p>Full-Stack Data Scientist · Turning Data into Impact</p>
     </div>
   </div>
@@ -16,9 +16,9 @@ cssclasses: [no-title]
 
 <div class="social-links">
   <a href="https://github.com/Beatrice-Wakarima" class="social-btn github">⌥ GitHub</a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" class="social-btn linkedin">💼 LinkedIn</a>
-  <a href="mailto:YOUR_EMAIL" class="social-btn email">✉️ Email Me</a>
-  <a href="YOUR_PORTFOLIO_LINK" class="social-btn portfolio">🌐 Portfolio</a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin">💼 LinkedIn</a>
+  <a href="mailto:beatiewakarima1@gmail.com" class="social-btn email">✉️ Email Me</a>
+  <a href="https://beatrice-wakarima.github.io/data-science-portfolio/" class="social-btn portfolio">🌐 Portfolio</a>
 </div>
 
 Welcome to my digital garden. I am a data professional specializing in building end-to-end, production-grade data solutions that turn raw information into executive-level insights.
