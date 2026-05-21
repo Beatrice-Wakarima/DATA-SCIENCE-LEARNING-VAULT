@@ -62,7 +62,7 @@ up:: [[index|🏠 Home]]
 - [[Machine Learning MOC]]
 - [[Docker MOC]]
 - [[Artificial Intelligence MOC]]
-- [[DBT MOC]]
+- [[DBT MOC 1]]
 - [[Kafka MOC]]
 
 ---
