@@ -1,32 +1,47 @@
 ---
 title: Docker MOC
+tags: [MOC]
+created: 2026-05-20
+up:: [[index|🏠 Home]]
 ---
 
 # 🐳 Docker MOC
 
-> Notes on containerization with Docker.
+> Complete Docker learning path from basics to production data engineering — with real-world pipeline examples throughout.
 
-## Core Concepts
-- [[Docker/docker|Docker Overview]]
-- [[Docker/Docker Cheat sheet|Cheat Sheet]]
-- [[Docker/Why Docker|Why Docker]]
-- [[Docker/Learning Docker]]
-- [[Docker/blog|Blog Notes]]
+---
 
-## Docker for Postgres
-- [[Docker for postgres/backup strategy|Backup Strategy]]
-- [[Docker for postgres/best practices|Best Practices]]
-- [[Docker for postgres/Security hardening|Security Hardening]]
-- [[Docker for postgres/Why Docker|Why Docker for Postgres]]
+## 🟢 Part 1 — Fundamentals
 
-## Interview Prep
-- [[Docker/Docker Interview checklist|Interview Checklist]]
-- [[Docker/Docker Q and A|Q & A]]
+- [[01 - Introduction to Docker|01 · Introduction to Docker]]
+- [[02 - Dockerfile|02 · Dockerfile]]
+- [[03 - Docker Volumes and Networks|03 · Volumes & Networks]]
 
-## Related MOCs
-- [[Kubernetes MOC]]
-- [[Postgres MOC]]
+---
+
+## 🔵 Part 2 — Intermediate
+
+- [[04 - Docker Compose|04 · Docker Compose]]
+- [[05 - Docker for Data Engineering|05 · Docker for Data Engineering]]
+
+---
+
+## 🟣 Part 3 — Advanced & Production
+
+- [[06 - Docker for PostgreSQL|06 · Docker for PostgreSQL]]
+- [[07 - Docker Security and Best Practices|07 · Security & Best Practices]]
+- [[08 - Docker Interview Checklist|08 · Interview Checklist & Cheat Sheet]]
+
+---
+
+## 🔗 Related MOCs
+
 - [[Data Engineering MOC]]
+- [[Postgres MOC]]
+- [[Kubernetes MOC]]
+- [[Python MOC]]
+- [[DBT MOC]]
 
-## Back
-- [[index|🏠 Home]]
+---
+
+up:: [[index|🏠 Home]]
