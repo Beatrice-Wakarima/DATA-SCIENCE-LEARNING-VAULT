@@ -18,7 +18,7 @@ title: Git MOC
 - History: log, diff, status
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Projects MOC]]
 
 ## Back

@@ -13,7 +13,7 @@ title: Databricks MOC
 - MLflow
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Machine Learning MOC]]
 - [[Snowflake MOC]]
 - [[Python MOC]]

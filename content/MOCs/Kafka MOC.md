@@ -13,7 +13,7 @@ title: Kafka MOC
 - Stream Processing
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Kubernetes MOC]]
 - [[Databricks MOC]]
 

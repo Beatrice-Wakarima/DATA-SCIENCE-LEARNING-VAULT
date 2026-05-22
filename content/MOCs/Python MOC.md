@@ -13,7 +13,7 @@ title: Python MOC
 
 ## Related MOCs
 - [[Machine Learning MOC]]
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 
 ## Back
 - [[index|🏠 Home]]

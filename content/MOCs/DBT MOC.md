@@ -13,7 +13,7 @@ title: DBT MOC
 - dbt Cloud vs CLI
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[SQL MOC]]
 - [[Snowflake MOC]]
 

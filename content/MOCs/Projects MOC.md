@@ -14,7 +14,7 @@ title: Projects MOC
 
 ## Related MOCs
 - [[Machine Learning MOC]]
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Python MOC]]
 
 ## Back

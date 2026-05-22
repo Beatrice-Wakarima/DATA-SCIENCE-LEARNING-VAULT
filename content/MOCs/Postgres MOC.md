@@ -15,7 +15,7 @@ title: Postgres MOC
 ## Related MOCs
 - [[SQL MOC]]
 - [[Docker MOC]]
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 
 ## Back
 - [[index|🏠 Home]]

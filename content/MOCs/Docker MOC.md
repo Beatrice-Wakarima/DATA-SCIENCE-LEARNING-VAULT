@@ -36,7 +36,7 @@ up:: [[index|🏠 Home]]
 
 ## 🔗 Related MOCs
 
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Postgres MOC]]
 - [[Kubernetes MOC]]
 - [[Python MOC]]

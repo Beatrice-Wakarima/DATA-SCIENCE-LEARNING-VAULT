@@ -58,7 +58,7 @@ up:: [[index|🏠 Home]]
 
 ## 🗺️ Related MOCs
 
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Machine Learning MOC]]
 - [[Docker MOC]]
 - [[Artificial Intelligence MOC]]

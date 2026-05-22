@@ -14,7 +14,7 @@ title: Kubernetes MOC
 
 ## Related MOCs
 - [[Docker MOC]]
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Kafka MOC]]
 
 ## Back

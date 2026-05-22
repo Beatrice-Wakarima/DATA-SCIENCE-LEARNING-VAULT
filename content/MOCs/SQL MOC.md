@@ -38,7 +38,7 @@ up:: [[index|🏠 Home]]
 
 ## 🔗 Related MOCs
 
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[DBT MOC]]
 - [[Snowflake MOC]]
 - [[Postgres MOC]]

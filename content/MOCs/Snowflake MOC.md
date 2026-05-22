@@ -16,7 +16,7 @@ title: Snowflake MOC
 - [[SQL MOC]]
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[DBT MOC]]
 - [[Business Intelligence MOC]]
 

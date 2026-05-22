@@ -36,7 +36,7 @@ up:: [[index|🏠 Home]]
 
 ## 🗺️ Related MOCs
 
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[SQL MOC]]
 - [[Docker MOC]]
 - [[Postgres MOC]]

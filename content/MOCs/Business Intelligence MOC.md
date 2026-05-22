@@ -20,7 +20,7 @@ title: Business Intelligence MOC
 - [[Snowflake MOC]]
 
 ## Related MOCs
-- [[Data Engineering MOC]]
+- [[MOCs/Data Engineering MOC]]
 - [[Databricks MOC]]
 
 ## Back
