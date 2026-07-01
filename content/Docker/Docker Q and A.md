@@ -25,38 +25,7 @@ A **lightweight, isolated runtime environment** that shares the host OS kernel b
 
 ### 4. Difference between Docker containers and Virtual Machines?
 
-|Containers|Virtual Machines|
-|---|---|
-|Share host OS kernel|Each has its own OS|
-|Lightweight|Heavy|
-|Fast startup|Slow startup|
-|Less resource usage|High resource usage|
-### 1. What is Docker?
 
-Docker is a **containerization platform** that packages an application and its dependencies into a **container**, ensuring it runs consistently across different environments (dev, test, prod).
-
----
-
-### 2. What problem does Docker solve?
-
-- “Works on my machine” issues
-    
-- Dependency conflicts
-    
-- Slow environment setup
-    
-- Inconsistent deployments
-    
-
----
-
-### 3. What is a Docker container?
-
-A **lightweight, isolated runtime environment** that shares the host OS kernel but has its own filesystem, processes, and network.
-
----
-
-### 4. Difference between Docker containers and Virtual Machines?
 
 |Containers|Virtual Machines|
 |---|---|
@@ -134,8 +103,6 @@ Used for:
     
 - App + DB setups
     
-
----
 
 ### 11. What is a Docker volume?
 

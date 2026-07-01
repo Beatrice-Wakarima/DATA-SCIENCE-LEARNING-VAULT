@@ -9,7 +9,7 @@ cssclasses: [no-title]
     <img src="attachments/logo.jpg" class="hero-logo" alt="Beatrice Builds"/>
     <div class="hero-text">
       <h1>Beatrice W Wanjiru</h1>
-      <p>Full-Stack Data Scientist · Turning Data into Impact</p>
+      <p>BI-Developer & Data Analytics Engineer · Turning Data into Impact</p>
     </div>
   </div>
 </div>
@@ -18,10 +18,10 @@ cssclasses: [no-title]
   <a href="https://github.com/Beatrice-Wakarima" class="social-btn github" target="_blank">⌥ GitHub</a>
   <a href="https://www.linkedin.com/in/beatricewwanjiru" class="social-btn linkedin" target="_blank">💼 LinkedIn</a>
   <a href="https://mail.google.com/mail/?view=cm&to=beatiewakarima1@gmail.com" class="social-btn email" target="_blank">✉️ Email Me</a>
-  <a href="https://beatrice-wakarima.github.io/data-science-portfolio/" class="social-btn portfolio" target="_blank">🌐 Portfolio</a>
+  <a href="https://beatrice-wakarima.github.io/Beatrice/" class="social-btn portfolio" target="_blank">🌐 Portfolio</a>
 </div>
 
-Welcome to my digital garden. I am a data professional specializing in building end-to-end, production-grade data solutions that turn raw information into executive-level insights.
+Welcome to my digital garden. I am a data professional specializing in building end-to-end data solutions that turn raw information into executive-level insights.
 
 My work bridges the gap between complex data infrastructure and actionable business intelligence, utilizing the **Medallion Architecture** to ensure data quality and scalability.
 

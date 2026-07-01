@@ -14,8 +14,6 @@ A data orchestration tool provides functionality to allow for multiple sources a
 
 What sets Airflow apart as a data orchestration tool is its use of Python to define data pipelines, which provides a level of extensibility and control that other data orchestration tools fail to offer. Airflow boasts a number of built-in and provider-supported tools to integrate any team’s data stack, as well as the ability to design your own.
 
-For more information about getting started with Airflow, check out this DataCamp tutorial: [Getting Started with Apache Airflow](https://www.datacamp.com/tutorial/getting-started-with-apache-airflow). If you want to take an even deeper dive into the world of data orchestration with Airflow, this [Introduction to Airflow course](https://www.datacamp.com/courses/introduction-to-airflow-in-python) is the best place to start.
-
 ### 2. What is a DAG?
 
 **Answer:** A DAG, or a directed-acyclic graph, is a collection of tasks and relationships between those tasks. A DAG has a clear start and end and does not have any “cycles” between these tasks. When using Airflow, the term “DAG” is commonly used, and can typically be thought of as a data pipeline.
@@ -39,8 +37,6 @@ This is a timestamp, meaning that an exact year, month, day, hour, and minute ar
 In the example here, the DAG has been defined using a `dag_id` of `"sample_dag"`. The `datetime` function from the `datetime` library is used to set a start_date of January 1, 2024, at 9:00 AM. This DAG will run daily (at 9:00 AM), as designated by the `@daily` scheduled interval. More custom schedule intervals can be set using cron expressions or the `timedelta` function from the `datetime` library.
 
 `with DAG(    	 dag_id="sample_dag", 	start_date=datetime(year=2024, month=1, day=1, hour=9, minute=0), 	schedule="@daily", ) as dag:     …`
-
-[Powered By](https://www.datacamp.com/datalab) 
 
 ### 4. What is an Airflow task? Provide three examples of Airflow tasks.
 
@@ -89,15 +85,11 @@ Below is a sample call of the `PythonOperator`. Typically, the Python function 
 
 `def some_callable(name): print("Hello ", name)  ...  some_task = PythonOperator( task_id="some_task", 	python_callable=some_callable, 	op_kwargs={"name": "Charles"} )`
 
-[Powered By](https://www.datacamp.com/datalab) 
-
 ### 7. If you have three tasks, and you’d like them to execute sequentially, how would you set the dependencies between each of them? What syntax would you use?
 
 **Answer:** There are quite a few ways to do this. One of the most common is to use the >> bit-shift operator. Another is to use the `.set_downstream()` method to set a task downstream of another. The `chain` function is another useful tool for setting sequential dependencies between tasks. Here are three examples of doing this:
 
 `# task_1, task_2, task_3 instantiated above  # Using bit-shift operators task_1 >> task_2 >> task_3  # Using .set_downstream() task_1.set_downstream(task_2) task_2.set_downstream(task_3)  # Using chain chain(task_1, task_2, task_3)`
-
-[Powered By](https://www.datacamp.com/datalab) 
 
 **Tell me more:** Setting dependencies can be simple, while others may get quite complex! For sequential execution, it’s common to use the bit-shift operators to make this more verbose. When using the TaskFlow API, setting dependencies between tasks can look a little different.
 
@@ -125,7 +117,6 @@ There are a number of ways to do this. One of the easiest is to use a list of me
 
 `airport_codes = ["atl", "lax", "jfk"]  for code in airport_codes: with DAG( dag_id=f"{code}_daily_etl" 		start_date=datetime(2024, 1, 1, 9, 0), 		schedule="@daily" ) as dag: # Rest of the DAG definition ...`
 
-[Powered By](https://www.datacamp.com/datalab) 
 
 This code would spawn three DAGs, with DAG IDs `atl_daily_etl`, `lax_daily_etl`, and `jfk_daily_etl`. Downstream, the tasks could be parameterized by using the same airport code to ensure each DAG executed as expected.
 

@@ -429,7 +429,7 @@ extract_task >> transform_task >> load_task >> validate_task
 
 _Tags: #airflow #workflow-orchestration #data-engineering #python #etl #scheduling #dag #apache_
 
-_Related: [[Data Engineering]], [[ETL Pipelines]], [[Python]], [[Docker]], [[Kubernetes]], [[Data Workflows]], [[Task Scheduling]]_
+_Related: [[Data Engineering]], [[ETL Pipelines]], [[Python]], [[docker]], [[Kubernetes]], [[Data Workflows]], [[Task Scheduling]]_
 
 
 
@@ -1013,7 +1013,7 @@ backup_db >> verify_backup >> upload_backup
 
 ### Phase 4: Production Deployment
 
-- [ ]  Learn [[Docker]] deployment methods
+- [ ]  Learn [[docker]] deployment methods
 - [ ]  Study [[Security]] best practices
 - [ ]  Understand [[Scaling]] and [[High Availability]]
 - [ ]  Master [[Monitoring]] and [[Observability]]

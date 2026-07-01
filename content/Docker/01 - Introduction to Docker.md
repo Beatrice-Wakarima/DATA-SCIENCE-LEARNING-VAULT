@@ -5,7 +5,7 @@ created: 2026-05-20
 up:: [[Docker MOC]]
 ---
 
-# 🐳 Introduction to Docker
+# Introduction to Docker
 
 > Docker packages your application and everything it needs into a container that runs identically anywhere. No more "works on my machine." Essential for modern data engineering.
 
